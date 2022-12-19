@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671400325 source:d:\coding\c++\clo1\[tp] modul 13\graph.cpp
+	"graph.h"
+
+1671400346 d:\coding\c++\clo1\[tp] modul 13\graph.h
+	<iostream>
+
+1671399729 source:d:\coding\c++\clo1\[tp] modul 13\main.cpp
+	<iostream>
+	"graph.h"
+
