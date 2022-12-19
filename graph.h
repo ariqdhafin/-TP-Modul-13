@@ -1,5 +1,4 @@
-#ifndef GRAPH_H_INCLUDED
-#define GRAPH_H_INCLUDED
+#pragma once
 
 using namespace std;
 #include <iostream>
@@ -43,4 +42,3 @@ void addEdge_1301210553(Graph &G, char x, char y);
 bool isConnected_1301210553(Graph G, char x, char y);
 void PrintGraph_1301210553(Graph G);
 
-#endif // GRAPH_H_INCLUDED
