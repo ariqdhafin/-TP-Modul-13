@@ -4,6 +4,6 @@
  adnan
  ariq
  dre
- julpan
+ panjul
 
  kelas 9b
