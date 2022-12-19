@@ -26,6 +26,7 @@ int main()
     addEdge_1301210553(G,'C','A');
     addEdge_1301210553(G,'D','A');
     addEdge_1301210553(G,'D','B');
+    addEdge_1301210553(G,'C','C');
 
     PrintGraph_1301210553(G);
 
